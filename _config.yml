@@ -1,14 +1,14 @@
-title:              Blog
-email:              your-email@example.com
-description:        A Blog Theme
-author:             Start Bootstrap
-baseurl:            "/startbootstrap-clean-blog-jekyll"
-url:                "https://startbootstrap.github.io"
+title:              DataSEF
+email:              data.sef23@gmail.com
+description:        Skimmable Exploratory Framework
+author:             DataSEF
+baseurl:            ""
+url:                "https://datasef.github.io"
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    StartBootstrap
-facebook_username:  StartBootstrap
+twitter_username:   DataSEF
+github_username:    DataSEF
+facebook_username:  DataSEF
 instagram_username:  
 linkedin_username:
 
